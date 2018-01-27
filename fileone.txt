@@ -1,3 +1,7 @@
  The first commit to the file. The line will be committed to the repository.
 
  This changes will be for the next commit.
+
+ To persist the changes directly without putting the changes to the staging are
+
+ Some more changes to the file for the next commit.
